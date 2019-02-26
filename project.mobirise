@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.3",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/maximaqualight-aquarec-aquarecgs-128x33.png",
@@ -56,11 +56,14 @@
               "font-weight": "700",
               "text-transform": "uppercase",
               "margin-top": "40px"
+            },
+            "B": {
+              "font-size": "25px"
             }
           },
           "_params": {
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "showVideo": false,
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
@@ -94,7 +97,7 @@
             }
           },
           "title": "INTRO WITH VIDEO POPUP",
-          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text": "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MAXIM AQUALIGHT</b>",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
@@ -121,41 +124,28 @@
         },
         {
           "_params": {
-            "_customHTML": "<iframe src=\"http://embed.beatport.com/player/?id=11647097&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647099&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647100&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647101&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>",
-            "_customCSS": "p{color:white;}",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/maxim-aqualight-unknown-world-ep-background-2000x2000.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#010101"
-          },
-          "_customHTML": "<iframe src=\"http://embed.beatport.com/player/?id=11647097&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647099&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647100&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647101&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>",
-          "_customCSS": "p{color:white;}",
-          "alias": "deltapieditor",
-          "_tags": [
-            "Расширения"
-          ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-3"
-        },
-        {
-          "_params": {
-            "_customHTML": "<iframe src=\"http://embed.beatport.com/player/?id=11536311&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11454655&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213339&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213340&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161488&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161489&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11150219&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10992364&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083103&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083104&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083105&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10906927&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10907171&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10677842&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>",
-            "_customCSS": "p{color:white;}",
+            "blockTitle": "<h3><span style=\"color: rgb(255, 255, 255);\" data-mce-style=\"color: #ffffff;\">My music</span></h3>",
+            "HTMLCode": "<h1><iframe src=\"http://embed.beatport.com/player/?id=11647097&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647099&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647100&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647101&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11536311&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11454655&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213339&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213340&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161488&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161489&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11150219&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10992364&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083103&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083104&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083105&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10906927&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10907171&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10677842&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe></h1>",
+            "extEdit": false,
+            "paddingTop": "0",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/%D0%A4%D0%BE%D0%BD%D0%94%D0%BB%D1%8F%D0%A1%D0%B0%D0%B9%D1%82%D0%B0maxaqualandingytjyrhfcysq-1920x1080.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#010101"
+            "bgColor": "#010101",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "_customHTML": "<iframe src=\"http://embed.beatport.com/player/?id=11536311&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11454655&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213339&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213340&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161488&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161489&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11150219&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10992364&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083103&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083104&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083105&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10906927&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10907171&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10677842&type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>",
-          "_customCSS": "p{color:white;}",
-          "alias": "deltapieditor",
+          "blockTitle": "<h3><span style=\"color: rgb(255, 255, 255);\" data-mce-style=\"color: #ffffff;\">My music</span></h3>",
+          "HTMLCode": "<h1><iframe src=\"http://embed.beatport.com/player/?id=11647097&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647099&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647100&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11647101&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11536311&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11454655&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213339&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11213340&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161488&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11161489&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11150219&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10992364&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083103&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083104&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=11083105&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10906927&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10907171&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe>\n<iframe src=\"http://embed.beatport.com/player/?id=10677842&amp;type=track\" width=\"100%\" height=\"180\" frameborder=\"0\" scrolling=\"no\" style=\"max-width:800px;\"></iframe></h1>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
           "_tags": [
             "Расширения"
           ],
-          "_name": "deltapieditor",
-          "_anchor": "deltapieditor-5"
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-e"
         },
         {
           "_styles": {},
